@@ -3,11 +3,16 @@
 
 ## 💬 About me
 
-Sou formado em engenharia elétrica⚡ com experiência na elaboração e homologação de projetos fotovoltaicos residenciais ☀️. Durante minha trajetória no setor de energia solar, adquiri habilidades essenciais em análise de desempenho, gestão de projetos e trabalho em equipe, sempre com foco em eficiência e qualidade.
+I'm a Electrical Engineer⚡ with experience in designing and approving residential photovoltaic projects ☀️. Throughout my journey in the solar energy sector, I gained essential skills in performance analysis, project management, and teamwork, always with a focus on efficiency and quality.
+
+Currently, I am transitioning my career into web development 🖥️, where I am dedicating my time to learning technologies such as HTML, CSS, JavaScript, Node.js, and SQL and NoSQL databases. My ability to learn quickly, attention to detail, and ease in working within a team make me a versatile professional, ready to face challenges and contribute meaningfully.
+
+My goal is to establish myself as a fullstack developer, leveraging the growing demand for technology and innovation. I am seeking opportunities that allow for continuous growth and offer the flexibility of remote work, so I can be closer to my family while developing impactful solutions.💡
+<!--Sou formado em engenharia elétrica⚡ com experiência na elaboração e homologação de projetos fotovoltaicos residenciais ☀️. Durante minha trajetória no setor de energia solar, adquiri habilidades essenciais em análise de desempenho, gestão de projetos e trabalho em equipe, sempre com foco em eficiência e qualidade.
 
 Atualmente, estou em transição de carreira para o desenvolvimento web 🖥️, no qual invisto meu tempo no aprendizado de tecnologias como HTML, CSS, JavaScript, Node.js e bancos de dados SQL e NoSQL. Minha capacidade de aprendizado rápido, atenção aos detalhes e facilidade para trabalhar em equipe me tornam um profissional versátil, preparado para enfrentar desafios e contribuir de forma significativa.
 
-Meu objetivo é consolidar minha carreira como desenvolvedor fullstack, aproveitando a demanda crescente por tecnologia e inovação. Busco oportunidades que permitam crescimento contínuo e que ofereçam a flexibilidade do trabalho remoto, para que eu possa estar mais próximo da minha família enquanto desenvolvo soluções impactantes.💡
+Meu objetivo é consolidar minha carreira como desenvolvedor fullstack, aproveitando a demanda crescente por tecnologia e inovação. Busco oportunidades que permitam crescimento contínuo e que ofereçam a flexibilidade do trabalho remoto, para que eu possa estar mais próximo da minha família enquanto desenvolvo soluções impactantes.💡-->
 
 
 ## 🔭 Tools and tecnologies I’m currently working with
